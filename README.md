@@ -1,6 +1,6 @@
 <div align="center">
 
-![Jatin Kumar — Analytics Engineer and Data Analyst](./assets/profile-banner.svg)
+![Jatin Kumar — Analytics Engineer and Data Analyst](./profile-banner.svg)
 
 <br>
 
