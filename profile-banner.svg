@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+  <title id="title">Jatin Kumar — Analytics Engineer and Data Analyst</title>
+  <desc id="desc">Professional GitHub profile banner featuring analytics engineering, dimensional modelling, data quality and business intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#10223c"/>
+      <stop offset="1" stop-color="#0a3440"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.28"/>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#9fb9d8" stroke-width="1" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="430" rx="28" fill="url(#grid)"/>
+  <circle cx="1110" cy="60" r="190" fill="#2563eb" opacity="0.10"/>
+  <circle cx="1225" cy="355" r="215" fill="#14b8a6" opacity="0.09"/>
+  <path d="M0 427H1280" stroke="url(#accent)" stroke-width="6"/>
+
+  <g transform="translate(72 62)">
+    <rect width="100" height="100" rx="24" fill="#ffffff" opacity="0.96" filter="url(#shadow)"/>
+    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#101828">JK</text>
+  </g>
+
+  <g transform="translate(202 62)">
+    <text x="0" y="31" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#72ddcf" letter-spacing="3">ANALYTICS ENGINEERING · BUSINESS INTELLIGENCE</text>
+    <text x="0" y="104" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="-1">Jatin Kumar</text>
+    <text x="0" y="150" font-family="Arial, sans-serif" font-size="27" font-weight="500" fill="#cbd8ea">Analytics Engineer · Data Analyst · BI Analyst</text>
+  </g>
+
+  <g transform="translate(72 236)" font-family="Arial, sans-serif">
+    <rect width="1136" height="112" rx="20" fill="#ffffff" opacity="0.07" stroke="#ffffff" stroke-opacity="0.14"/>
+
+    <g transform="translate(26 22)">
+      <rect width="246" height="68" rx="14" fill="#0c2037" stroke="#315579"/>
+      <circle cx="34" cy="34" r="11" fill="#3b82f6"/>
+      <text x="57" y="29" font-size="14" font-weight="700" fill="#79aefc" letter-spacing="1">ENGINEER</text>
+      <text x="57" y="50" font-size="15" fill="#e7eef8">Reliable analytical pipelines</text>
+    </g>
+
+    <g transform="translate(300 22)">
+      <rect width="246" height="68" rx="14" fill="#0c2037" stroke="#315579"/>
+      <circle cx="34" cy="34" r="11" fill="#2dd4bf"/>
+      <text x="57" y="29" font-size="14" font-weight="700" fill="#72ddcf" letter-spacing="1">MODEL</text>
+      <text x="57" y="50" font-size="15" fill="#e7eef8">Facts, dimensions and grain</text>
+    </g>
+
+    <g transform="translate(574 22)">
+      <rect width="246" height="68" rx="14" fill="#0c2037" stroke="#315579"/>
+      <circle cx="34" cy="34" r="11" fill="#f59e0b"/>
+      <text x="57" y="29" font-size="14" font-weight="700" fill="#f8c563" letter-spacing="1">VALIDATE</text>
+      <text x="57" y="50" font-size="15" fill="#e7eef8">Data quality and reconciliation</text>
+    </g>
+
+    <g transform="translate(848 22)">
+      <rect width="262" height="68" rx="14" fill="#0c2037" stroke="#315579"/>
+      <circle cx="34" cy="34" r="11" fill="#a78bfa"/>
+      <text x="57" y="29" font-size="14" font-weight="700" fill="#c4b5fd" letter-spacing="1">DELIVER</text>
+      <text x="57" y="50" font-size="15" fill="#e7eef8">Decision-ready analytics</text>
+    </g>
+  </g>
+
+  <g transform="translate(72 383)" font-family="Arial, sans-serif" font-size="15" fill="#aebed2">
+    <text x="0" y="0">Microsoft Fabric · Snowflake · dbt Core · SQL · Power BI · Basic PySpark</text>
+    <text x="1136" y="0" text-anchor="end">Delhi · Gurugram · Open to relocation &amp; remote</text>
+  </g>
+</svg>
